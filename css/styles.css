@@ -9893,6 +9893,10 @@ h3 {
     border-color: #dee2e6;
   }
 }
+.header-links a:hover {
+  text-decoration: none;
+}
+
 .border-wave {
   display: inline-block;
   position: relative;
