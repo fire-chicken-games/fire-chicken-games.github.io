@@ -9912,4 +9912,24 @@ h3 {
   height: 450px;
 }
 
+@media (min-width: 992px) {
+  .top-column-lg {
+    margin-top: -17em !important;
+  }
+}
+@media (max-width: 991.98px) {
+  .top-column-lg {
+    margin-top: -10em !important;
+  }
+}
+@media (max-width: 575.98px) {
+  .top-column-lg {
+    margin-top: -7em !important;
+  }
+
+  .demo-image {
+    height: 300px;
+  }
+}
+
 /*# sourceMappingURL=styles.css.map */
