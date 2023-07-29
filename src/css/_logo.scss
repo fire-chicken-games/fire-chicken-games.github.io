@@ -1,0 +1,28 @@
+
+// Logo - Large
+@media (min-width: 992px) {
+  .logo-bg {
+    background-color: $white;
+    position: absolute;
+    top: 2px;
+  }
+
+  .logo-image {
+    width: 100px;
+  }
+}
+
+// Logo - Smaller than large
+@media (max-width: 991.98px) {
+  .logo-bg {
+    padding: 10px;
+  }
+
+  .logo-image {
+    width: 60px;
+  }
+
+  .bg-sm-white {
+    background-color: #ffffff;
+  }
+}
