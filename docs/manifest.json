@@ -1,0 +1,68 @@
+{
+  "_vendor-dbf5f355.js": {
+    "file": "assets/vendor-dbf5f355.js"
+  },
+  "_vendor-legacy-bdaa8e9b.js": {
+    "file": "assets/vendor-legacy-bdaa8e9b.js"
+  },
+  "index-legacy.html": {
+    "assets": [
+      "assets/bootstrap-icons-cfe45b98.woff2",
+      "assets/bootstrap-icons-999550fa.woff"
+    ],
+    "file": "assets/index-legacy-5ee7aae3.js",
+    "imports": [
+      "_vendor-legacy-bdaa8e9b.js"
+    ],
+    "isEntry": true,
+    "src": "index-legacy.html"
+  },
+  "index.css": {
+    "file": "assets/index-1cef16ed.css",
+    "src": "index.css"
+  },
+  "index.html": {
+    "assets": [
+      "assets/bootstrap-icons-cfe45b98.woff2",
+      "assets/bootstrap-icons-999550fa.woff"
+    ],
+    "css": [
+      "assets/index-1cef16ed.css"
+    ],
+    "file": "assets/index-17183a74.js",
+    "imports": [
+      "_vendor-dbf5f355.js"
+    ],
+    "isEntry": true,
+    "src": "index.html"
+  },
+  "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff": {
+    "file": "assets/bootstrap-icons-999550fa.woff",
+    "src": "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff"
+  },
+  "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff2": {
+    "file": "assets/bootstrap-icons-cfe45b98.woff2",
+    "src": "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff2"
+  },
+  "src/images/logo-red.svg": {
+    "file": "assets/logo-red-165ec1bb.svg",
+    "src": "src/images/logo-red.svg"
+  },
+  "src/images/products/combat_product_logo.png": {
+    "file": "assets/combat_product_logo-a063d4e0.png",
+    "src": "src/images/products/combat_product_logo.png"
+  },
+  "src/images/products/devkit_product_logo.png": {
+    "file": "assets/devkit_product_logo-10ce57be.png",
+    "src": "src/images/products/devkit_product_logo.png"
+  },
+  "src/images/products/weapons_product_logo.png": {
+    "file": "assets/weapons_product_logo-dcdea3f3.png",
+    "src": "src/images/products/weapons_product_logo.png"
+  },
+  "vite/legacy-polyfills-legacy": {
+    "file": "assets/polyfills-legacy-b428e553.js",
+    "isEntry": true,
+    "src": "vite/legacy-polyfills-legacy"
+  }
+}
