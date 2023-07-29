@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+npx vite build
+git add -A
+git commit -a -m "Deploy"
+git push origin main

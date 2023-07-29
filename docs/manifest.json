@@ -10,7 +10,7 @@
       "assets/bootstrap-icons-cfe45b98.woff2",
       "assets/bootstrap-icons-999550fa.woff"
     ],
-    "file": "assets/index-legacy-5218b2ea.js",
+    "file": "assets/index-legacy-06db63f1.js",
     "imports": [
       "_vendor-legacy-bdaa8e9b.js"
     ],
@@ -18,7 +18,7 @@
     "src": "index-legacy.html"
   },
   "index.css": {
-    "file": "assets/index-2b0c252b.css",
+    "file": "assets/index-90a4e617.css",
     "src": "index.css"
   },
   "index.html": {
@@ -27,9 +27,9 @@
       "assets/bootstrap-icons-999550fa.woff"
     ],
     "css": [
-      "assets/index-2b0c252b.css"
+      "assets/index-90a4e617.css"
     ],
-    "file": "assets/index-3de7dfb0.js",
+    "file": "assets/index-422ef19c.js",
     "imports": [
       "_vendor-dbf5f355.js"
     ],
