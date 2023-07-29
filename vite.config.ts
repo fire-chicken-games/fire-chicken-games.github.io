@@ -3,7 +3,7 @@ import legacy from '@vitejs/plugin-legacy';
 
 export default defineConfig({
     build: {
-        outDir: 'dist/',
+        outDir: 'docs/',
         manifest: true,
         minify: true,
         sourcemap: true,
