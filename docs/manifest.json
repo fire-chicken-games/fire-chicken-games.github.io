@@ -10,7 +10,7 @@
       "assets/bootstrap-icons-cfe45b98.woff2",
       "assets/bootstrap-icons-999550fa.woff"
     ],
-    "file": "assets/index-legacy-06db63f1.js",
+    "file": "assets/index-legacy-b4ee089f.js",
     "imports": [
       "_vendor-legacy-bdaa8e9b.js"
     ],
@@ -18,7 +18,7 @@
     "src": "index-legacy.html"
   },
   "index.css": {
-    "file": "assets/index-90a4e617.css",
+    "file": "assets/index-fb4459e2.css",
     "src": "index.css"
   },
   "index.html": {
@@ -27,9 +27,9 @@
       "assets/bootstrap-icons-999550fa.woff"
     ],
     "css": [
-      "assets/index-90a4e617.css"
+      "assets/index-fb4459e2.css"
     ],
-    "file": "assets/index-422ef19c.js",
+    "file": "assets/index-72b31895.js",
     "imports": [
       "_vendor-dbf5f355.js"
     ],
@@ -55,6 +55,10 @@
   "src/images/products/devkit_product_logo.png": {
     "file": "assets/devkit_product_logo-10ce57be.png",
     "src": "src/images/products/devkit_product_logo.png"
+  },
+  "src/images/products/spawning_product_logo.png": {
+    "file": "assets/spawning_product_logo-9972be51.png",
+    "src": "src/images/products/spawning_product_logo.png"
   },
   "src/images/products/weapons_product_logo.png": {
     "file": "assets/weapons_product_logo-dcdea3f3.png",
